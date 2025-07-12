@@ -45,3 +45,7 @@ else
 fi
 
 cat $TMPFILE
+
+aritmethic operations
+x = 5
+y = 10
